@@ -12,6 +12,7 @@ import upgrad.movieapp.service.config.ServiceConfiguration;
 public class MoviesRestApplication {
 
     public static void main(String[] args) {
+        //comment
         SpringApplication.run(MoviesRestApplication.class, args);
     }
 
